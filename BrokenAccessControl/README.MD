@@ -92,3 +92,9 @@ This project is intentionally vulnerable and is provided for educational and sec
 
 Do not deploy this application in production.
 
+## How to run
+
+```cmd
+pip install -r requirements.txt
+flask run app
+```
