@@ -19,4 +19,4 @@ def read_file():
         return f"<pre>{f.read()}</pre>"
 
 
-app.run(debug=True)
+app.run(debug=True, port=5006)

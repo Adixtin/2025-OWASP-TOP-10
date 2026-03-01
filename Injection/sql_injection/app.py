@@ -3,7 +3,7 @@ import sqlite3
 
 app = Flask(__name__)
 
-DB = "database.db"
+DB = "Injection/sql_injection/database.db"
 
 
 def init_db():
@@ -42,4 +42,4 @@ def login():
 
 
 init_db()
-app.run(debug=True)
+app.run(debug=True, port=5002)

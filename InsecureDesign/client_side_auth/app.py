@@ -51,4 +51,4 @@ def logout():
     return redirect(url_for("home"))
 
 
-app.run(debug=True)
+app.run(debug=True, port=5003)

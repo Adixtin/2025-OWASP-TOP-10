@@ -5,7 +5,7 @@ import hashlib
 app = Flask(__name__)
 app.secret_key = "crazyKey"
 
-DB = "database.db"
+DB = "AuthFailures/no_acc_lockout/database.db"
 
 
 def init_db():
@@ -79,4 +79,4 @@ def logout():
 
 
 init_db()
-app.run(debug=True)
+app.run(debug=True, port=5000)
