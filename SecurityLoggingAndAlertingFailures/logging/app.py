@@ -41,4 +41,4 @@ def dashboard():
     return f'<h2>welcome to the dashboard {session["username"]}</h2>'
 
 
-app.run(debug=True, port=5005)
+app.run(debug=True, host="0.0.0.0", port=5005)
