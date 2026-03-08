@@ -18,6 +18,8 @@ Misshandling of Exceptions Conditions   5006
 1. Download the pre-configured VirtualBox image.
 2. Import the machine into VirtualBox.
 3. Start the VM and access services using the listed ports.
+4. Login with `serverowasp:passwordowasp`
+4. run `cd 2025-OWASP-TOP-10 && ./setup.sh`
 
 ### Option 2 Run locally
 1. Clone the repository `git clone https://github.com/Adixtin/2025-OWASP-TOP-10.git && cd 2025-OWASP-TOP-10`
