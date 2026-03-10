@@ -15,7 +15,7 @@ Misshandling of Exceptions Conditions   5006
 
 ## Getting Started
 ### Option 1 Download VirtualBox machine
-1. Download the pre-configured VirtualBox image.
+1. Download the pre-configured VirtualBox image `https://drive.google.com/file/d/1jygzh53cfODTk-apVGlGMqTjzBUSnZzp/view?usp=sharing`.
 2. Import the machine into VirtualBox.
 3. Start the VM and access services using the listed ports.
 4. Login with `serverowasp:passwordowasp`
