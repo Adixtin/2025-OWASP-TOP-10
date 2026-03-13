@@ -33,3 +33,4 @@ This lab contains intentionally vulnerable applications. Do not expose it to the
 Experiment & Learn. Focus on understanding each vulnerability and how to mitigate it.
 Reference OWASP Documentation: OWASP Top 10 -> https://owasp.org/Top10/2025/
 
+<img width="692" height="690" alt="image" src="https://github.com/user-attachments/assets/c832f4ef-5054-4964-a33e-d9680c585f01" />
