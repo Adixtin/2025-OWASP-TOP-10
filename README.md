@@ -4,14 +4,14 @@ This lab provides a hands-on environment to explore and test the OWASP Top 10 we
 
 
 ## Avilable Services & Ports
-Broken Access Controll                  5001
-Cryptographic Failures                  5004
-Injection                               5002
-Insecure Design                         5003
-Authentication Failures                 5000
-Software or Data Integrity Failures     5007
-Security Logging and Alerting Failures  5005
-Misshandling of Exceptions Conditions   5006
+- Broken Access Controll                  5001
+- Cryptographic Failures                  5004
+- Injection                               5002
+- Insecure Design                         5003
+- Authentication Failures                 5000
+- Software or Data Integrity Failures     5007
+- Security Logging and Alerting Failures  5005
+- Misshandling of Exceptions Conditions   5006
 
 ## Getting Started
 ### Option 1 Download VirtualBox machine
